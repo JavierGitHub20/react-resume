@@ -1,5 +1,4 @@
 import React from 'react';
-
 import EducationSection from './components/education';
 import ExperienceSection from './components/experience';
 import Header from './components/header';
@@ -52,6 +51,9 @@ function App() {
             <SkillsSection skills={ResumeData.skills} />
             <EducationSection education={ResumeData.education} />
           </div>
+          <div className="sidebar">
+      <a  href="https://reactjs.org" >learn react</a>
+    </div>
         </main>
       </div>
     </div>
