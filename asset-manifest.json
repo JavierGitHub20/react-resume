@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.9bc25216.chunk.css",
+    "main.js": "/react-resume/static/js/main.53722068.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.53722068.chunk.js.map",
+    "runtime~main.js": "/react-resume/static/js/runtime~main.1999e881.js",
+    "runtime~main.js.map": "/react-resume/static/js/runtime~main.1999e881.js.map",
+    "static/js/2.18518025.chunk.js": "/react-resume/static/js/2.18518025.chunk.js",
+    "static/js/2.18518025.chunk.js.map": "/react-resume/static/js/2.18518025.chunk.js.map",
+    "static/js/3.1ef5ba18.chunk.js": "/react-resume/static/js/3.1ef5ba18.chunk.js",
+    "static/js/3.1ef5ba18.chunk.js.map": "/react-resume/static/js/3.1ef5ba18.chunk.js.map",
+    "index.html": "/react-resume/index.html",
+    "precache-manifest.d1499c855087e1e6083520c07688ee74.js": "/react-resume/precache-manifest.d1499c855087e1e6083520c07688ee74.js",
+    "service-worker.js": "/react-resume/service-worker.js",
+    "static/css/main.9bc25216.chunk.css.map": "/react-resume/static/css/main.9bc25216.chunk.css.map"
+  }
+}
